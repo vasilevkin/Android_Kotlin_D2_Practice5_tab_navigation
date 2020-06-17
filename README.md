@@ -1,0 +1,2 @@
+# Android_Kotlin_D2_Practice5_tab_navigation
+Tab navigation with Android Navigation Component
